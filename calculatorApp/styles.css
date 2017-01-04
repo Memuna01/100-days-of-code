@@ -1,0 +1,7 @@
+.my-table{
+  width: 50% !important;
+  border: 1px solid red !important;
+  left: 360px;
+  height: 400px;
+  margin-top: 20px;
+}
