@@ -1,4 +1,30 @@
-# 100 Days Of Code - Log
+100 Days of code
+
+Day 0: January 4th, 2017
+
+- Today's progress: i decided to start a simple calculator app.
+
+- Thoughts: I'm having problems linking my bootstrap to my html page, which is suprising and annoying. i've had to resort to a CDN so i don't get stuck. I'm also trying to create the UI. it's a big problem for me.
+
+- Link to work: errr, no link for now.
+
+Day 1: January 5th, 2017
+
+- Today's progress: Continued my calculator app on codepen.io(love it!) instead of my localhost.
+
+- Thoughts: I abandoned bootstrap completely and stuck with ol' CSS. Still have to add more styling to the calculator though.
+
+- Link to work: http://codepen.io/memuna/pen/ygyjGg
+
+Day 2: January 6th, 2017
+
+- Today's progress: tried to add more styles to my calculator. Trying to figure out how to make tables (more?) mobile responsive.
+
+- Thoughts: I'm not sure what project to do next. A text editor maybe?
+
+- Link to work: http://codepen.io/memuna/pen/ygyjGg
+
+<!-- # 100 Days Of Code - Log
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
@@ -27,4 +53,4 @@
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
