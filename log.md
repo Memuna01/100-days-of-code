@@ -24,6 +24,23 @@ Day 2: January 6th, 2017
 
 - Link to work: http://codepen.io/memuna/pen/ygyjGg
 
+Day 3: January 9th, 2017
+
+- Today's progress: i've missed two days now. i just decided to learn more about Node.js
+
+- Thoughts: going through a tutorial. hopefully will be done in two weeks. i'll keep updating the logs with simple APIs i build with Node.js
+
+- Link to work: #
+
+Day 4: January 10th, 2017
+
+- Today's progress: Continuiing with Node.js today. Came across MongoDB and Express.js
+
+- Thoughts: Interesting stuff so far
+
+- Link to work: Link tomorrow
+
+
 <!-- # 100 Days Of Code - Log
 
 ### Day 0: February 30, 2016 (Example 1)
